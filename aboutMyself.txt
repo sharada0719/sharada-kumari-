@@ -6,3 +6,6 @@ Sec: A
 Branch: CSE
 Year of admission: 2023
 clg name: GITW
+Ug: 2nd PU
+PG: CSE
+
